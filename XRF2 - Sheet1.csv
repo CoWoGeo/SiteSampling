@@ -1,0 +1,11 @@
+Sample_Number,Sample_Name,Pb,Pb_Err,As,As_Err,S,S_Err,Cr,Cr_Err
+1,Autozone rear lot,0.0068,0.001,0.0013,0.0006,0,0.0089,0.0115,0.0026
+2,ESB parking lot side south,0.0166,0.001,0.0014,0.0005,0.0176,0.0096,0.0248,0.0045
+3,ESB parking lot center-north,0.1228,0.0024,0.0043,0.0012,0.0878,0.0112,0.0121,0.0037
+4,ESB just north of 3,0.0674,0.0019,0.0022,0.0009,0.0122,0.0092,0.0115,0.0037
+5,ESB central open lot,0.1092,0.0023,0.0058,0.0012,0.377,0.0157,0.0106,0.0038
+6,ESB central 2 average,3.36795,0.3369,0.0873,0.0085,1.08565,0.09205,0.03745,0.00225
+7,Tabor Ave Holy Redeemer yard,0.0126,0.0009,0.0011,0.0005,1.1777,0.0101,0.0267,0.0045
+8,Hill Creek Apartments Adams Ave side,0.0098,0.0008,0.0019,0.0004,0.0348,0.0094,0.0133,0.0038
+9,Composite Hill Creek Apartments Average,0.01515,0.001,0.0013,0.0005,0.0242,0.0103,0.01175,0.00385
+10,Hill Creek Apartments interior,0.0222,0.0011,0.0019,0.0006,0.0205,0.0099,0.0152,0.0038
